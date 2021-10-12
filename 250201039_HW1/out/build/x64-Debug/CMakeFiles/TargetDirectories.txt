@@ -1,0 +1,3 @@
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw1/250201039_HW1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw1/250201039_HW1/out/build/x64-Debug/CMakeFiles/image-test.dir
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw1/250201039_HW1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
