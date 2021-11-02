@@ -1,0 +1,6 @@
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw2/03_image_processing/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw2/03_image_processing/src/out/build/x64-Debug/CMakeFiles/image-test.dir
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw2/03_image_processing/src/out/build/x64-Debug/CMakeFiles/process-per-pixel.dir
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw2/03_image_processing/src/out/build/x64-Debug/CMakeFiles/filter-image.dir
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw2/03_image_processing/src/out/build/x64-Debug/CMakeFiles/rotate-image.dir
+D:/3.CENG/CENG391-İMGE ANLAMAYA GİRİŞ/hw2/03_image_processing/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
